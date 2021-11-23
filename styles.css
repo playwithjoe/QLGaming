@@ -10,7 +10,10 @@ body h1 {
 }
 
 #background {
-    background-image: url("images/background.png");
+    background-image: url("images/background_source.png");
+    background-color: #2e2d4d;
+    box-shadow:-5px 5px rgba(0, 0, 0, 0.4);
+
 }
 
 .corner-links {
