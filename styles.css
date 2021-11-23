@@ -33,6 +33,11 @@ body h1 {
 
 }
 
+table {
+    background-color: white;
+    box-shadow:-5px 5px rgba(0, 0, 0, 0.4);
+}
+
 div iframe {
     padding: 15px;
 }
