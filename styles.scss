@@ -1,0 +1,50 @@
+body {
+    font-family: video,serif;
+    font-weight: 400;
+    font-style: normal;
+
+    h1 {
+        text-shadow: -2px 2px 5px black;
+        color: white;
+    }
+
+}
+
+#background {
+    background-image: url("images/background.png");
+}
+
+.corner-links {
+    text-shadow: -2px 2px 5px black;
+    color: white;
+}
+
+#qlg_logo {
+    max-width: 150px;
+}
+
+.test {
+    border: red;
+    border-width: 2px;
+    border-style: solid;
+}
+
+.box {
+    background-color: white;
+    box-shadow:-5px 5px rgba(0, 0, 0, 0.4);
+
+}
+
+table {
+    background-color: white;
+    box-shadow:-5px 5px rgba(0, 0, 0, 0.4);
+    text-align: center;
+}
+
+div {
+
+    iframe{
+        padding: 15px;
+    }
+    
+}
